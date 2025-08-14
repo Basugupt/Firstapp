@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\firstapp\\Firstapp.csproj": {}
+    "c:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\Firstapp\\Firstapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\firstapp\\Firstapp.csproj": {
+    "c:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\Firstapp\\Firstapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\firstapp\\Firstapp.csproj",
+        "projectUniqueName": "c:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\Firstapp\\Firstapp.csproj",
         "projectName": "Firstapp",
-        "projectPath": "C:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\firstapp\\Firstapp.csproj",
+        "projectPath": "c:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\Firstapp\\Firstapp.csproj",
         "packagesPath": "C:\\Users\\basugupt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\firstapp\\obj\\",
+        "outputPath": "c:\\Users\\basugupt\\OneDrive - Capgemini\\Apps\\FirstGithubapp\\Firstapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\basugupt\\AppData\\Roaming\\NuGet\\NuGet.Config"

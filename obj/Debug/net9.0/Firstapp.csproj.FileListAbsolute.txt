@@ -1,0 +1,14 @@
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\bin\Debug\net9.0\Firstapp.exe
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\bin\Debug\net9.0\Firstapp.deps.json
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\bin\Debug\net9.0\Firstapp.runtimeconfig.json
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\bin\Debug\net9.0\Firstapp.dll
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\bin\Debug\net9.0\Firstapp.pdb
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.AssemblyInfoInputs.cache
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.AssemblyInfo.cs
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.csproj.CoreCompileInputs.cache
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.dll
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\refint\Firstapp.dll
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.pdb
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.genruntimeconfig.cache
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\ref\Firstapp.dll

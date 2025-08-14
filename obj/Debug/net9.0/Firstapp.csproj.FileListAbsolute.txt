@@ -12,3 +12,4 @@ C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\ne
 C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.pdb
 C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.genruntimeconfig.cache
 C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\ref\Firstapp.dll
+C:\Users\basugupt\OneDrive - Capgemini\Apps\FirstGithubapp\firstapp\obj\Debug\net9.0\Firstapp.sourcelink.json
